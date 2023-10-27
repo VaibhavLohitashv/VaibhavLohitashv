@@ -4,6 +4,6 @@
 
 🌱 I’m currently studying in ITER SOA, comp science and IT
 
-💞️ I’m looking to collaborate on Algorithm research works
+💞️ I’m new to git and github
 
 📫 email: vaibhav200361@outlook.com

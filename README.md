@@ -1,6 +1,6 @@
 👋 Hi, I’m @VaibhavLohitashv
 
-👀 I’m interested in ALGORITHMS
+👀 I’m interested in DESIGNING 
 
 🌱 I’m currently studying in ITER SOA, comp science and IT
 

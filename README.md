@@ -2,8 +2,6 @@
 
 👀 I’m interested in PROGRAMMING
 
-🌱 I’m currently studying in ITER SOA, comp science and IT
+🌱 I’m currently studying in ITER SOA University, comp science and IT
 
-💞️ I’m new to git and github
-
-📫 email: vaibhav200361@outlook.com
+📫 email: vaibhav200361@outlook.com | lohitashv@gmail.com
